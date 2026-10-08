@@ -1,2 +1,3 @@
-# programare_evolutiva_si_algoritmi_genetici
+# Programare evolutiva si algoritmi genetici
+
 Activitate Seminar Programare Evolutiva Si Algoritmi Genetici
