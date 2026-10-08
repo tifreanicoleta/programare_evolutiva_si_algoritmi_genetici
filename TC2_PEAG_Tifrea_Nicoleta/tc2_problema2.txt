@@ -1,0 +1,16 @@
+Fie funcţia 𝑓(𝑥) = ∑ 𝑥𝑖
+7
+𝑖=1
+, 𝑥 = (𝑥1, … , 𝑥7
+) ∈ {0,1}
+7
+care trebuie maximizată
+(un genotip este un vector binar cu 7 componente).
+a. Scrieţi o funcţie Python pentru generarea aleatoare a unei populaţii, pop, cu
+dimensiunea dim; calitatea fiecărui individ este memorată la sfârşitul fiecărei reprezentări
+cromozomiale;
+b. Pentru o probabilitate de recombinare dată, pc, scrieţi o funcţie de recombinare
+utilizând operatorul de încrucişare multi-punct pentru 2 puncte de încrucişare care, pe baza
+populaţiei pop obţine o nouă populaţie, popc. Populaţia rezultată are tot dim indivizi (este
+utilizată şi recombinarea asexuată şi calitatea fiecărui individ este memorată la sfârşitul fiecărei
+reprezentări cromozomiale)

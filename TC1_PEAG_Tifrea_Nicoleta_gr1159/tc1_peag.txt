@@ -1,0 +1,1 @@
+1. Fie 𝑓:[0,2] × [0,3] → ℝ,𝑓(𝑥1,𝑥2) = 2 ∙ 𝑠𝑖𝑛(𝑥1) + 𝑥2 − (𝑥1𝑥2)3 funcţia obiectiv a unei probleme de maxim. Candidații la soluție sunt reprezentaţi prin şiruri 𝑥 = (𝑥1,𝑥2) din [0,2] × [0,3].  Rezolvați problema de maxim utilizând un algoritm de tip hill climbing. Este obținută întotdeauna soluția optimă? Explicați. 
